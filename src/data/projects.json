@@ -1,0 +1,20 @@
+[
+  {
+    "name": "portfolio-nocturiis",
+    "repo": "portfolio-nocturiis",
+    "featured": true,
+    "tags": ["react","fastapi","tailwind"],
+    "language": "JavaScript",
+    "date": "2025-06-21",
+    "description": "Mon site portfolio moderne propulsé par React et FastAPI."
+  },
+  {
+    "name": "rusty-cache",
+    "repo": "rusty-cache",
+    "featured": true,
+    "tags": ["rust","performance","systems"],
+    "language": "Rust",
+    "date": "2025-04-02",
+    "description": "Un cache en mémoire ultra-rapide écrit en Rust."
+  }
+]
